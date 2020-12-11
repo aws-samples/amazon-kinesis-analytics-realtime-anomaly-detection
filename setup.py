@@ -6,20 +6,21 @@ with open("README.md") as fp:
 
 
 setuptools.setup(
-    name="article_anomaly_detection_data_streams",
-    version="0.0.1",
+    name="amazon-kinesis-analytics-realtime-anomaly-detection",
+    version="1.0.0",
 
     description="An empty CDK Python app",
-    long_description=long_description,
+    long_description="Sample for the German article Anomalie-Erkennung für Echtzeit-Datenströme by Constantin Gonzalez and Florian Mair published in Big Data Insider.",
     long_description_content_type="text/markdown",
 
-    author="author",
+    author="Florian Mair",
 
-    package_dir={"": "article_anomaly_detection_data_streams"},
-    packages=setuptools.find_packages(where="article_anomaly_detection_data_streams"),
+    package_dir={"": "amazon-kinesis-analytics-realtime-anomaly-detection"},
+    packages=setuptools.find_packages(where="amazon-kinesis-analytics-realtime-anomaly-detection"),
 
     install_requires=[
         "aws-cdk.core==1.65.0",
+
     ],
 
     python_requires=">=3.6",
