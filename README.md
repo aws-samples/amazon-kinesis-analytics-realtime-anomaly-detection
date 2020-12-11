@@ -1,6 +1,7 @@
 # Amazon Kinesis Analytics Real-time Anomaly Detection
 
 This is the sample code for the German article "Anomalie-Erkennung für Echtzeit-Datenströme" in the BigData Insider Magazine. (Link is following)
+Check out this article for further information.
 
 When deploying the sample to your own AWS account the following architecture is build:
 
