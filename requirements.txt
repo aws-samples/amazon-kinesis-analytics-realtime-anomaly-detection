@@ -47,7 +47,7 @@ packaging==20.7
 Pillow==8.1.1
 pkginfo==1.6.1
 publication==0.0.3
-Pygments==2.7.3
+Pygments==2.7.4
 pyloco==0.0.139
 pyparsing==2.4.7
 python-dateutil==2.8.1
