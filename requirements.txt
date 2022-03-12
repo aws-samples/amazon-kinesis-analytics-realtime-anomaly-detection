@@ -44,7 +44,7 @@ matplot==0.1.9
 matplotlib==3.3.3
 numpy==1.19.4
 packaging==20.7
-Pillow==9.0.0
+Pillow==9.0.1
 pkginfo==1.6.1
 publication==0.0.3
 Pygments==2.7.4
