@@ -52,7 +52,7 @@ pyloco==0.0.139
 pyparsing==2.4.7
 python-dateutil==2.8.1
 readme-renderer==28.0
-requests==2.25.0
+requests==2.31.0
 requests-toolbelt==0.9.1
 rfc3986==1.4.0
 s3transfer==0.3.3
